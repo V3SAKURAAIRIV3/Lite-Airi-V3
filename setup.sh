@@ -285,7 +285,7 @@ echo ""  | tee -a log-install.txt
 echo "   >>> Service & Port"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "    [INFORMASI SSH]" | tee -a log-install.txt
-echo -e " ${red}-------------------------${NC}" | tee -a log-install.txt
+echo "    -------------------------" | tee -a log-install.txt
 echo "   - OpenSSH                   : 22"  | tee -a log-install.txt
 echo "   - Websocket SSH(HTTP)       : 80 [ON]"  | tee -a log-install.txt
 echo "   - Websocket SSL(HTTPS)      : 443"  | tee -a log-install.txt
@@ -293,7 +293,7 @@ echo "   - Stunnel4                  : 222, 777"  | tee -a log-install.txt
 echo "   - Dropbear                  : 109, 143"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "    [INFORMASI OPENVPN]" | tee -a log-install.txt
-echo -e " ${red}-------------------------${NC}" | tee -a log-install.txt
+echo "    -------------------------" | tee -a log-install.txt
 echo "   - OpenVPN                   : TCP 1194, UDP 2200, SSL 442"  | tee -a log-install.txt
 echo "   - Websocket OpenVPN         : 2084"  | tee -a log-install.txt
 echo "   - OHP SSH                   : 8686"  | tee -a log-install.txt
@@ -301,13 +301,13 @@ echo "   - OHP DBear                 : 8585"  | tee -a log-install.txt
 echo "   - OHP OpenVPN               : 8787"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "    [INFORMASI Sqd, Bdvp, Ngnx]" | tee -a log-install.txt
-echo -e " ${red}-------------------------${NC}" | tee -a log-install.txt
+echo "    -------------------------" | tee -a log-install.txt
 echo "   - Squid Proxy               : 3128, 8080 (limit to IP Server)"  | tee -a log-install.txt
 echo "   - Badvpn                    : 7100-7900"  | tee -a log-install.txt
 echo "   - Nginx                     : 81"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "    [INFORMASI XRAY]"  | tee -a log-install.txt
-echo -e " ${red}-------------------------${NC}" | tee -a log-install.txt
+echo "    -------------------------" | tee -a log-install.txt
 echo "   - Xray Vmess Ws Tls         : 443"  | tee -a log-install.txt
 echo "   - Xray Vmess Ws None Tls    : 80"  | tee -a log-install.txt
 echo "   - Vmess GRPC                : 443"  | tee -a log-install.txt
@@ -336,7 +336,7 @@ echo "   - Admin Control" | tee -a log-install.txt
 echo "   - Backup & Restore Data" | tee -a log-install.txt
 echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo -e "${red}════════════════${NC}Autoscript-Lite Airi V3${red}════════════════${NC}" | tee -a log-install.txt
+echo -e "${red}════════════════${NC}[-Autoscript-Lite Airi V3-]${red}════════════════${NC}" | tee -a log-install.txt
 echo ""
 sleep 3
 echo -e "    ${tyblue}.------------------------------------------.${NC}"
