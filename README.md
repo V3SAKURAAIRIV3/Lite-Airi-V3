@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Lite-Airi-V3/main/MENU.png" />
+<img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Lite-Airi-V3/main/MENU-ALL.png" />
 </p>
 
 <p align="center">
