@@ -1,7 +1,14 @@
-Debian 10 Only 1
+Debian 10 Only
 
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 </code></pre>
+
+
+Ubuntu 20.04 
+
+<pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && sleep 2 && reboot
+</code></pre>
+
 
 Install Full
 
