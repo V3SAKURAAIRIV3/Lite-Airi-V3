@@ -1,3 +1,15 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Lite-Airi-V3/main/MENU.png" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Lite-Airi-V3/main/INFO.png" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Lite-Airi-V3/main/Running.png" />
+</p>
+
 Debian 10 Only
 
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
